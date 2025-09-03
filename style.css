@@ -1,0 +1,37 @@
+body {
+    background-color: lightgoldenrodyellow;
+    font-family: Arial;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+
+
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+    color: deepskyblue;
+    text-transform: capitalize;
+}
+
+.note {
+    color: gray;
+    font-size: small;
+    text-decoration: line-through;
+}
+ 
+a {
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkred;
+    text-decoration:underline;
+}
