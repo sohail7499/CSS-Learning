@@ -1,20 +1,22 @@
 body {
-    background-image: url("img.jpg.jpg");
+    background-image: url("img.jpg");
     background-repeat: no-repeat;
     /* background-size: cover; */
     background-size: contain;
     background-position: center;
     /* background-attachment: fixed; */
-    background-color: lightgoldenrodyellow;
+    background-color: rgb(126, 228, 241);
 }
 
 h1 {
     color: red;
-    background-color: white;
+    background-color: lightskyblue;
     border: 2px solid black;
     text-align: center;
     padding: 10px;
     font-style: italic;
+    margin-left: 174px;
+    margin-right: 174px;
 }
 
 p {
@@ -25,7 +27,7 @@ p {
 }
 
 .box1 {
-  background-color: yellow;
+  background-color: rgb(33, 194, 218);
   border: 3px dashed blue;
   height: 100px;
   width: 200px;
@@ -36,7 +38,7 @@ p {
 }
 
 .box2 {
-    background-color: lightgreen;
+    background-color: rgb(202, 223, 109);
     border: 4px dotted red;
     height: 100px;
     width: 200px;
@@ -48,7 +50,7 @@ p {
 }
 
 .box3 {
-    background-color:brown;
+    background-color:rgb(228, 116, 116);
     border: 5px solid black;
     height: 150px;
     width: 250px;
