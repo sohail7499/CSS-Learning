@@ -1,5 +1,5 @@
 body {
-    background-image: url("img.jpg");
+    background-image: url("sky.jpg");
     background-repeat: no-repeat;
     /* background-size: cover; */
     background-size: contain;
@@ -15,8 +15,9 @@ h1 {
     text-align: center;
     padding: 10px;
     font-style: italic;
-    margin-left: 174px;
-    margin-right: 174px;
+    margin: 20px 132px;
+    /* margin-left: 174px;
+    margin-right: 174px; */
 }
 
 p {
