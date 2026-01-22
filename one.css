@@ -1,0 +1,20 @@
+h1 {
+     color: blue; 
+     font-size: 30px;
+}
+
+.box {
+    color: red;
+    background-color: black;
+}
+
+#title {
+    font-size: 25px;
+}
+
+.box1 {
+    height: 150px;
+    width: 50%;
+    background-color: #333;
+    color: #ffff;
+}
