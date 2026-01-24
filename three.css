@@ -1,0 +1,29 @@
+.block {
+    display: block;
+    background-color: red;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    border: 3px solid blue;
+}
+
+.inline {
+    display: inline;
+    background-color: orange;
+    color: white;
+    padding: 1.5rem;
+    border: 3px solid black;
+}
+
+.inblock {
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: 30px;
+    border: 3px solid red;
+}
+
+.none {
+    display: none;
+}
